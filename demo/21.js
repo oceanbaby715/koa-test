@@ -30,4 +30,4 @@ app.use(main);
 app.listen(3000)
 
 //use
-curl --form upload=@D:\xxx.txt http://127.0.0.1:3000
+//curl --form upload=@D:\xxx.txt http://127.0.0.1:3000
